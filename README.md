@@ -1,5 +1,5 @@
 # BotSelenium
-prueba automatizada selenium
+Selenium Automated Test
 # Bot Script
 
 Created by David Vallejo and Mateo Londoño
